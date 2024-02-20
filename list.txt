@@ -1,0 +1,5 @@
+Nama Barang :
+1. Kursi
+2. Meja
+3. komputer
+
